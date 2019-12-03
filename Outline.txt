@@ -1,0 +1,9 @@
+Data Engineering:
+0. Use cross-validation for the training set. Use the validation set as test set.
+1. Rescale the scores to 0-10
+2. Create permuted essays.
+3. Creat prompt-essay irrelavant sets.
+
+Evaluation:
+1. Report overall testing accuracies.
+2. Report accuracies on each prompt.
