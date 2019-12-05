@@ -4,6 +4,10 @@ Data Engineering:
 2. Create permuted essays.
 3. Creat prompt-essay irrelavant sets.
 
+LSTM:
+1. Multiclassification
+2. Linear regression
+
 Evaluation:
 1. Report overall testing accuracies.
 2. Report accuracies on each prompt.
